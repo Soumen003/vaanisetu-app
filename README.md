@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Target-Low--Resource%20Android-8B5CF6?style=for-the-badge" alt="Low Resource Android">
 </p>
 
-**Team DARK PHOENIX 2.0 · Team ID 04**
+**Team DARK PHOENIX 2.0 · Team ID 154214**
 
 > **VaaniSetu is designed to bridge the gap between Hindi-medium teaching and mother-tongue learning by combining speech recognition, contextual NLP, vernacular translation, audio synthesis and offline classroom tools in one low-resource workflow.**
 
@@ -384,7 +384,7 @@ cd ai
 | Theme | **Smart Education** |
 | Category | **Software** |
 | Team | **DARK PHOENIX 2.0** |
-| Team ID | **04** |
+| Team ID | **154214** |
 | Primary focus | Mother-tongue-based primary education |
 | Target languages | **Ho · Mundari · Santhali** |
 | Connectivity | **Offline-first** |
@@ -400,7 +400,7 @@ cd ai
 **Problem Statement ID:** 26042  
 **Theme:** Smart Education  
 **Category:** Software  
-**Team ID:** 04  
+**Team ID:** 154214  
 **Team:** DARK PHOENIX 2.0
 
 ---
@@ -410,7 +410,7 @@ cd ai
 | Role | Member |
 |---|---|
 | Team | **DARK PHOENIX 2.0** |
-| Team ID | **04** |
+| Team ID | **154214** |
 | SIH | **Smart India Hackathon 2026** |
 
 > Add individual member names, GitHub profiles and role ownership here before the final submission.
